@@ -1,0 +1,167 @@
+:root {
+  --clr-primary: #fff;
+  --clr-secondary: #bc9d72;
+  --clr-terciary: #292929;
+  --clr-text: #191919;
+
+  --fnt-title-hero: "Rakkas", cursive;
+  --fnt-title-section: "Crimson Pro", serif;
+  --fnt-title: "Catamaran", sans-serif;
+  --fnt-text: "Montserrat", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
+
+button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  font-family: var(--fnt-title);
+}
+
+/*============================== SECTION HEADER */
+.caption {
+  position: relative;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 400;
+  font-family: var(--fnt-title-section);
+  color: var(--clr-secondary);
+}
+
+.caption::before,
+.caption::after {
+  content: "";
+  position: absolute;
+  bottom: 13px;
+  width: 30px;
+  height: 1px;
+  background-color: var(--clr-secondary);
+}
+
+.caption::before {
+  left: -3rem;
+}
+
+.caption::after {
+  right: -3rem;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  font-family: var(--fnt-title);
+  color: var(--clr-terciary);
+}
+
+.title--white {
+  color: var(--clr-primary);
+}
+
+.description {
+  font-size: 1.15rem;
+  text-align: center;
+  line-height: 1.6rem;
+  font-family: var(--fnt-text);
+}
+
+/*============================== BUTTONS */
+
+.btn {
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  font-family: var(--fnt-title);
+}
+
+.btn-primary {
+  letter-spacing: 0.3rem;
+  border: 1px solid var(--clr-secondary);
+  color: var(--clr-primary);
+  transition: all 0.2s ease;
+}
+
+.btn-primary--color {
+  color: var(--clr-terciary);
+}
+
+.btn-primary::after {
+  content: "\f054";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  position: relative;
+  margin-left: 0.6rem;
+  color: var(--clr-primary);
+}
+
+.btn-primary--color::after {
+  color: var(--clr-terciary);
+}
+
+.btn-primary:hover {
+  background-color: var(--clr-secondary);
+  color: var(--clr-primary);
+}
+
+.btn-primary--color:hover:after {
+  color: var(--clr-primary);
+}
+
+.btn-secondary {
+  position: absolute;
+  color: var(--clr-primary);
+  border: none;
+}
+
+.btn-top {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--clr-secondary);
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.3s ease;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.btn-top::before {
+  content: "\f30c";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  color: var(--clr-primary);
+}
+
+/*============================== BUTTONS */
+.banner-caption::after {
+  content: "";
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+  opacity: 1;
+}
