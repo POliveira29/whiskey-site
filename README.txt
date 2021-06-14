@@ -1,61 +1,61 @@
-FOTOS:
+![Banner](https://bucket.mlcdn.com/a/714/714749/images/b084f52d3516e6603affe7c8b442bee337386931.png/e7264e2711a258bedd20500ea7c5e9eb16879342.png)
 
-Photo by <a href="https://unsplash.com/@cantileverdistillery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cantilever Distillery</a>
+<p align="center">Desafio 30 dias, 30 sites | Dia 13 - Site de Whiskey</p>
 
-Photo by <a href="https://unsplash.com/@dryanparker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Parker</a>   
+## 🚀 Tecnologias
 
-Photo by <a href="https://unsplash.com/@arobj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adam Jaime</a>
+* [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [JQuery](https://jquery.com/)
+* [Leaflet](https://leafletjs.com/)
+* [Modal Video](https://appleple.github.io/modal-video/)
+* [Swiper](https://swiperjs.com/)
 
-Photo by <a href="https://unsplash.com/@cocktailbart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Johann Trasch</a>
+## 💻 Projeto
+Um site de whiskey, contendo sua história, estrura e o contato.
 
-Photo by <a href="https://unsplash.com/@dejan_kide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dejan Zakic</a>
+## 🎨 Layout
+Foi utilizado como base o site https://singlemalt.qodeinteractive.com/#
 
-cottombro
-https://www.pexels.com/pt-br/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
-  
-Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a>
-  
-Photo by <a href="https://unsplash.com/@landscapeplaces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Federico Bottos</a> 
-
-Photo by <a href="https://unsplash.com/@valeriadubych?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Valeria Dubych</a> 
-
-Photo by <a href="https://unsplash.com/@tomthompsonphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thomas Thompson</a>
-
-Photo by <a href="https://unsplash.com/@todd_diemer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Todd Diemer</a>
-
-Photo by <a href="https://unsplash.com/@yesmorecontent?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">YesMore Content</a>
-  
-  
-Photo by <a href="https://unsplash.com/@frenchriera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anthony Riera</a>
-  
-Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> 
-
-Photo by <a href="https://unsplash.com/@edwardhowellphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Howell</a>
-
-Photo by <a href="https://unsplash.com/@vinceveras?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vince Veras</a>
-  
-  
-Photo by <a href="https://unsplash.com/@jonnymckenna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonny McKenna</a> 
-  
-https://mockuptree.com/free/whisky-bottles-mockup/
-
-Uísque PNG foi desenvolvido por 社皮 e vem de <a href="https://pt.pngtree.com">Pngtree.com</a>
-
-uísque PNG foi desenvolvido por 社皮 e vem de <a href="https://pt.pngtree.com">Pngtree.com</a>
-
-Photo by <a href="https://unsplash.com/@courtneysmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Courtney Smith</a>
-
-Photo by <a href="https://unsplash.com/@willsmuth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Will Smith</a>
-
-<a href="https://br.freepik.com/vetores/vintage">Vintage vetor criado por macrovector_official - br.freepik.com</a>
-
-Imagem de <a href="https://pixabay.com/pt/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1294398">OpenClipart-Vectors</a>
- 
-FAVICON:
-
-<div>Icons made by <a href="" title="Nhor Phai">Nhor Phai</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+## Utilitários
+- Imagens:<br/>
+[Cantilever Distillery](https://unsplash.com/@cantileverdistillery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Ryan Parker](https://unsplash.com/@dryanparker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Adam Jaime](https://unsplash.com/@arobj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Johann Trasch](https://unsplash.com/@cocktailbart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Dejan Zakic](https://unsplash.com/@dejan_kide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[cottombro](https://www.pexels.com/pt-br/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)<br/>
+[Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Federico Bottos](https://unsplash.com/@landscapeplaces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Valeria Dubych](https://unsplash.com/@valeriadubych?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
 
 
-ICONS:
+[Thomas Thompson](https://unsplash.com/@tomthompsonphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Todd Diemer](https://unsplash.com/@todd_diemer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[YesMore Content](https://unsplash.com/@yesmorecontent?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Anthony Riera](https://unsplash.com/@frenchriera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Edward Howell](https://unsplash.com/@edwardhowellphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Vince Veras](https://unsplash.com/@vinceveras?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Jonny McKenna](https://unsplash.com/@jonnymckenna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Valeria Dubych](https://mockuptree.com/free/whisky-bottles-mockup/)<br/>
+[社皮](https://pt.pngtree.com)<br/>
+[Courtney Smith](https://unsplash.com/@courtneysmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[Will Smith](https://unsplash.com/@courtneysmith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+[macrovector_official](https://br.freepik.com/vetores/vintage)<br/>
+[OpenClipart-Vectors](https://pixabay.com/pt/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1294398)<br/>
 
-<div>Icons made by <a href="http://tumanova.cat" title="Lyolya">Lyolya</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+- Icones:<br/>
+[Font Awesome](https://fontawesome.com/)
+[Flaticon](https://www.flaticon.com/)
+
+
+- Fontes:<br/>
+[Rakkas](https://fonts.google.com/specimen/Rakkas)<br/>
+[Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro)<br/>
+[Catamaran](https://fonts.google.com/specimen/Catamaran)<br/>
+[Montserrat](https://fonts.google.com/specimen/Montserrat)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
