@@ -29,8 +29,6 @@ Foi utilizado como base o site https://singlemalt.qodeinteractive.com/#
 [Annie Spratt](https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
 [Federico Bottos](https://unsplash.com/@landscapeplaces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
 [Valeria Dubych](https://unsplash.com/@valeriadubych?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
-
-
 [Thomas Thompson](https://unsplash.com/@tomthompsonphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
 [Todd Diemer](https://unsplash.com/@todd_diemer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
 [YesMore Content](https://unsplash.com/@yesmorecontent?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
