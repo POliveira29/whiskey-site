@@ -755,6 +755,7 @@
 .newsletter__btn {
   width: 145px;
   height: 35px;
+  padding: 0;
   transform: translateX(-10px);
   transition: all 0.5s ease-in-out;
 }
